@@ -9,7 +9,7 @@ This repository contains code samples that I used for my Yale CPSC 490 final pro
 - Folder: `DiT/`
 - Contents: code sample from https://github.com/microsoft/unilm/tree/master/dit/object_detection/train_net, instructions for running the DiT for document layout analysis can be found [here](https://github.com/microsoft/unilm/tree/master/dit/object_detection)
 
-### 2. IDEFICS
+### 2. IDEFICS (Image-aware Decoder Enhanced à la Flamingo with Interleaved Cross-attentionS)
 - Folder: `IDEFICS/`
 - Contents: code adapted from https://huggingface.co/HuggingFaceM4/idefics-80b-instruct used for preliminary evaluation of IDEFICS for visual question answering (VQA). 
 
