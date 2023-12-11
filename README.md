@@ -1,7 +1,7 @@
 # CPSC 490 Final Project: Transformer-Based Models to Automate Legal Billing Software
 
 ## Project Overview
-This repository contains code samples that I used my Yale CPSC 490 final project. The aim of the project was to automate legal billing software for my brothers' company. I initially tested three multimodal models (Donut, IDEFICS, and GPT-4) after deciding not to move forward with InstructBLIP and other multimodal models. I then proposed a solution leveraging the DiT model. 
+This repository contains code samples that I used for my Yale CPSC 490 final project. The aim of the project was to automate legal billing software for my brothers' company. I initially tested three multimodal models (Donut, IDEFICS, and GPT-4) after deciding not to move forward with InstructBLIP and other multimodal models. I then proposed a solution leveraging the DiT model. 
 
 ## Folders and Contents
 
